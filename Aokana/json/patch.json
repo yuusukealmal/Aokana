@@ -1,0 +1,552 @@
+{
+    "evcg/en/akcg89_a1.webp": {
+        "p": 5613,
+        "L": 691238,
+        "k": 153
+    },
+    "sd/en/aksd18_s06.webp": {
+        "p": 696851,
+        "L": 251534,
+        "k": 7510338
+    },
+    "thumbnails/en/vcg89_11@.png": {
+        "p": 948385,
+        "L": 80210,
+        "k": 15020527
+    },
+    "thumbnails/vcg14_200@.png": {
+        "p": 1028595,
+        "L": 69287,
+        "k": 22530712
+    },
+    "evcg_hi/en/akcg89_a1.webp": {
+        "p": 1097882,
+        "L": 1707140,
+        "k": 30040901
+    },
+    "sd_hi/en/aksd18_s06.webp": {
+        "p": 2805022,
+        "L": 673874,
+        "k": 37551086
+    },
+    "ui_hi/cn/sgdialog_bookmark.png": {
+        "p": 3478896,
+        "L": 14935,
+        "k": 45061275
+    },
+    "ui_hi/cn/sgmsgwnd000000.png": {
+        "p": 3493831,
+        "L": 63628,
+        "k": 52571460
+    },
+    "ui_hi/cn/sgmsgwnd000001.png": {
+        "p": 3557459,
+        "L": 55024,
+        "k": 60081633
+    },
+    "ui_hi/cn/sgmsgwnd000002.png": {
+        "p": 3612483,
+        "L": 48784,
+        "k": 67591818
+    },
+    "ui_hi/cn/sgmsgwnd000003.png": {
+        "p": 3661267,
+        "L": 58687,
+        "k": 75102007
+    },
+    "ui_hi/cn/sgtitle200000.png": {
+        "p": 3719954,
+        "L": 23837,
+        "k": 82612192
+    },
+    "ui_hi/cn/sgtitle200001.png": {
+        "p": 3743791,
+        "L": 23669,
+        "k": 90122381
+    },
+    "ui_hi/en/sgdialog_bookmark.png": {
+        "p": 3767460,
+        "L": 12873,
+        "k": 97632566
+    },
+    "ui_hi/jp/sgdialog_bookmark.png": {
+        "p": 3780333,
+        "L": 14891,
+        "k": 105142755
+    },
+    "ui_hi/jp/sglogwnd990200.png": {
+        "p": 3795224,
+        "L": 6302,
+        "k": 112652940
+    },
+    "ui_hi/jp/sgmsgwnd000000.png": {
+        "p": 3801526,
+        "L": 60794,
+        "k": 120163113
+    },
+    "ui_hi/jp/sgmsgwnd000001.png": {
+        "p": 3862320,
+        "L": 50384,
+        "k": 127673298
+    },
+    "ui_hi/jp/sgmsgwnd000002.png": {
+        "p": 3912704,
+        "L": 44138,
+        "k": 135183487
+    },
+    "ui_hi/jp/sgmsgwnd000003.png": {
+        "p": 3956842,
+        "L": 58690,
+        "k": 142693672
+    },
+    "ui_hi/jp/sgmsgwnd990100.png": {
+        "p": 4015532,
+        "L": 9314,
+        "k": 150203861
+    },
+    "ui_hi/jp/sgtitle200000.png": {
+        "p": 4024846,
+        "L": 20757,
+        "k": 157714046
+    },
+    "ui_hi/jp/sgtitle200001.png": {
+        "p": 4045603,
+        "L": 19881,
+        "k": 165224235
+    },
+    "ui_hi/jp/vbookm_base.png": {
+        "p": 4065484,
+        "L": 15183,
+        "k": 172734420
+    },
+    "ui_hi/jp/vbookm_bg.png": {
+        "p": 4080667,
+        "L": 13140,
+        "k": 180244593
+    },
+    "ui_hi/jp/vbookm_del_base.png": {
+        "p": 4093807,
+        "L": 857,
+        "k": 187754778
+    },
+    "ui_hi/jp/vbookm_del_over.png": {
+        "p": 4094664,
+        "L": 1660,
+        "k": 195264967
+    },
+    "ui_hi/jp/vbookm_over.png": {
+        "p": 4096324,
+        "L": 13260,
+        "k": 202775152
+    },
+    "ui_hi/jp/vbookm_pagebar.png": {
+        "p": 4109584,
+        "L": 6356,
+        "k": 210285341
+    },
+    "ui_hi/jp/vbookm_pagebase.png": {
+        "p": 4115940,
+        "L": 28361,
+        "k": 217795526
+    },
+    "ui_hi/jp/vbookm_pageover.png": {
+        "p": 4144301,
+        "L": 13618,
+        "k": 225305715
+    },
+    "ui_hi/jp/vbookm_pagesel.png": {
+        "p": 4157919,
+        "L": 37296,
+        "k": 232815900
+    },
+    "ui_hi/tc/sgdialog_bookmark.png": {
+        "p": 4195215,
+        "L": 14639,
+        "k": 240326137
+    },
+    "ui_hi/tc/sgmsgwnd000000.png": {
+        "p": 4209854,
+        "L": 63336,
+        "k": 247836322
+    },
+    "ui_hi/tc/sgmsgwnd000001.png": {
+        "p": 4273190,
+        "L": 56250,
+        "k": 255346511
+    },
+    "ui_hi/tc/sgmsgwnd000002.png": {
+        "p": 4329440,
+        "L": 50113,
+        "k": 262856696
+    },
+    "ui_hi/tc/sgmsgwnd000003.png": {
+        "p": 4379553,
+        "L": 59575,
+        "k": 270366885
+    },
+    "ui_hi/vbookmark/face/aoi.png": {
+        "p": 4439128,
+        "L": 15139,
+        "k": 277877070
+    },
+    "ui_hi/vbookmark/face/ari.png": {
+        "p": 4454267,
+        "L": 23589,
+        "k": 285387259
+    },
+    "ui_hi/vbookmark/face/asu.png": {
+        "p": 4477856,
+        "L": 21443,
+        "k": 292897444
+    },
+    "ui_hi/vbookmark/face/bot.png": {
+        "p": 4499299,
+        "L": 16197,
+        "k": 300407617
+    },
+    "ui_hi/vbookmark/face/fuk.png": {
+        "p": 4515496,
+        "L": 8346,
+        "k": 307917802
+    },
+    "ui_hi/vbookmark/face/iri.png": {
+        "p": 4523842,
+        "L": 22127,
+        "k": 315427991
+    },
+    "ui_hi/vbookmark/face/kas.png": {
+        "p": 4545969,
+        "L": 14377,
+        "k": 322938176
+    },
+    "ui_hi/vbookmark/face/kaz.png": {
+        "p": 4560346,
+        "L": 14754,
+        "k": 330448365
+    },
+    "ui_hi/vbookmark/face/mad.png": {
+        "p": 4575100,
+        "L": 15989,
+        "k": 337958550
+    },
+    "ui_hi/vbookmark/face/mas.png": {
+        "p": 4591089,
+        "L": 17688,
+        "k": 345468739
+    },
+    "ui_hi/vbookmark/face/may.png": {
+        "p": 4608777,
+        "L": 17192,
+        "k": 352978924
+    },
+    "ui_hi/vbookmark/face/min.png": {
+        "p": 4625969,
+        "L": 15814,
+        "k": 360489097
+    },
+    "ui_hi/vbookmark/face/mis.png": {
+        "p": 4641783,
+        "L": 15717,
+        "k": 367999282
+    },
+    "ui_hi/vbookmark/face/mnr.png": {
+        "p": 4657500,
+        "L": 19160,
+        "k": 375509471
+    },
+    "ui_hi/vbookmark/face/rik.png": {
+        "p": 4676660,
+        "L": 16377,
+        "k": 383019656
+    },
+    "ui_hi/vbookmark/face/sak.png": {
+        "p": 4693037,
+        "L": 16294,
+        "k": 390529845
+    },
+    "ui_hi/vbookmark/face/sat.png": {
+        "p": 4709331,
+        "L": 21894,
+        "k": 398040030
+    },
+    "ui_hi/vbookmark/face/sin.png": {
+        "p": 4731225,
+        "L": 11951,
+        "k": 405550219
+    },
+    "ui_hi/vbookmark/face/sio.png": {
+        "p": 4743176,
+        "L": 11531,
+        "k": 413060404
+    },
+    "ui_hi/vbookmark/face/sir.png": {
+        "p": 4754707,
+        "L": 14379,
+        "k": 420570577
+    },
+    "ui_hi/vbookmark/face/zzz.png": {
+        "p": 4769086,
+        "L": 1529,
+        "k": 428080762
+    },
+    "def/arcs.txt": {
+        "p": 4770615,
+        "L": 142,
+        "k": 435590951
+    },
+    "def/cglist.csv": {
+        "p": 4770757,
+        "L": 27917,
+        "k": 443101136
+    },
+    "def/replaylist.csv": {
+        "p": 4798674,
+        "L": 1475,
+        "k": 450611325
+    },
+    "def/ui_backlog.csv": {
+        "p": 4800149,
+        "L": 1588,
+        "k": 458121510
+    },
+    "def/ui_msgwin.csv": {
+        "p": 4801737,
+        "L": 1195,
+        "k": 465631699
+    },
+    "def/ui_saveload.csv": {
+        "p": 4802932,
+        "L": 1683,
+        "k": 473141884
+    },
+    "def/ui_spritemode.csv": {
+        "p": 4804615,
+        "L": 3333,
+        "k": 480652121
+    },
+    "def/ui_title.csv": {
+        "p": 4807948,
+        "L": 1588,
+        "k": 488162306
+    },
+    "def/ui_voicebookmark.csv": {
+        "p": 4809536,
+        "L": 2242,
+        "k": 495672495
+    },
+    "def/vcglist.csv": {
+        "p": 4811778,
+        "L": 134347,
+        "k": 503182680
+    },
+    "def/version.txt": {
+        "p": 4946125,
+        "L": 19,
+        "k": 510692869
+    },
+    "scripts/main.bs5": {
+        "p": 4946144,
+        "L": 5582,
+        "k": 518203054
+    },
+    "scripts/merge/ep01.bs5": {
+        "p": 4951726,
+        "L": 688437,
+        "k": 525713243
+    },
+    "scripts/merge/ep02.bs5": {
+        "p": 5640163,
+        "L": 684406,
+        "k": 533223428
+    },
+    "scripts/merge/ep03.bs5": {
+        "p": 6324569,
+        "L": 786045,
+        "k": 540733601
+    },
+    "scripts/merge/ep04.bs5": {
+        "p": 7110614,
+        "L": 777039,
+        "k": 548243786
+    },
+    "scripts/merge/ep05.bs5": {
+        "p": 7887653,
+        "L": 772043,
+        "k": 555753975
+    },
+    "scripts/merge/ep06.bs5": {
+        "p": 8659696,
+        "L": 1363151,
+        "k": 563264160
+    },
+    "scripts/merge/ep07a.bs5": {
+        "p": 10022847,
+        "L": 1372567,
+        "k": 570774349
+    },
+    "scripts/merge/ep07b.bs5": {
+        "p": 11395414,
+        "L": 854914,
+        "k": 578284534
+    },
+    "scripts/merge/ep07c.bs5": {
+        "p": 12250328,
+        "L": 1268169,
+        "k": 585794723
+    },
+    "scripts/merge/ep07d.bs5": {
+        "p": 13518497,
+        "L": 1059405,
+        "k": 593304908
+    },
+    "scripts/merge/ep08a.bs5": {
+        "p": 14577902,
+        "L": 1222817,
+        "k": 600815081
+    },
+    "scripts/merge/ep08b.bs5": {
+        "p": 15800719,
+        "L": 1610591,
+        "k": 608325266
+    },
+    "scripts/merge/ep08c.bs5": {
+        "p": 17411310,
+        "L": 961834,
+        "k": 615835455
+    },
+    "scripts/merge/ep08d.bs5": {
+        "p": 18373144,
+        "L": 909314,
+        "k": 623345640
+    },
+    "scripts/merge/ep09.bs5": {
+        "p": 19282458,
+        "L": 64703,
+        "k": 630855829
+    },
+    "scripts/merge/eppmis01.bs5": {
+        "p": 19347161,
+        "L": 130579,
+        "k": 638366014
+    },
+    "scripts/merge/eppmis02.bs5": {
+        "p": 19477740,
+        "L": 158894,
+        "k": 645876203
+    },
+    "scripts/merge/epvasu01.bs5": {
+        "p": 19636634,
+        "L": 103347,
+        "k": 653386388
+    },
+    "scripts/merge/epvasu03.bs5": {
+        "p": 19739981,
+        "L": 31324,
+        "k": 660896561
+    },
+    "scripts/merge/epvasu04.bs5": {
+        "p": 19771305,
+        "L": 83748,
+        "k": 668406746
+    },
+    "scripts/merge/epvmas01.bs5": {
+        "p": 19855053,
+        "L": 55377,
+        "k": 675916935
+    },
+    "scripts/merge/epvmas02.bs5": {
+        "p": 19910430,
+        "L": 65491,
+        "k": 683427120
+    },
+    "scripts/merge/epvmas03.bs5": {
+        "p": 19975921,
+        "L": 49961,
+        "k": 690937309
+    },
+    "scripts/merge/epvmas04.bs5": {
+        "p": 20025882,
+        "L": 66455,
+        "k": 698447494
+    },
+    "scripts/merge/epvmis01.bs5": {
+        "p": 20092337,
+        "L": 150004,
+        "k": 705957683
+    },
+    "scripts/merge/epvmis02.bs5": {
+        "p": 20242341,
+        "L": 123660,
+        "k": 713467868
+    },
+    "scripts/merge/epvmis03.bs5": {
+        "p": 20366001,
+        "L": 131442,
+        "k": 720978105
+    },
+    "scripts/merge/epvmis04.bs5": {
+        "p": 20497443,
+        "L": 217784,
+        "k": 728488290
+    },
+    "scripts/merge/epvrik01.bs5": {
+        "p": 20715227,
+        "L": 95039,
+        "k": 735998479
+    },
+    "scripts/merge/epvrik02.bs5": {
+        "p": 20810266,
+        "L": 83924,
+        "k": 743508664
+    },
+    "scripts/merge/epvrik03.bs5": {
+        "p": 20894190,
+        "L": 87005,
+        "k": 751018853
+    },
+    "scripts/replay.bs5": {
+        "p": 20981195,
+        "L": 2405,
+        "k": 758529038
+    },
+    "video/en/yokoku03.txt": {
+        "p": 20983600,
+        "L": 575,
+        "k": 766039227
+    },
+    "video/en/yokoku04.txt": {
+        "p": 20984175,
+        "L": 397,
+        "k": 773549412
+    },
+    "video/en/yokoku05.txt": {
+        "p": 20984572,
+        "L": 390,
+        "k": 781059585
+    },
+    "video/en/yokoku06.txt": {
+        "p": 20984962,
+        "L": 326,
+        "k": 788569770
+    },
+    "video/en/yokoku07a.txt": {
+        "p": 20985288,
+        "L": 468,
+        "k": 796079959
+    },
+    "video/en/yokoku07b.txt": {
+        "p": 20985756,
+        "L": 376,
+        "k": 803590144
+    },
+    "video/en/yokoku07c.txt": {
+        "p": 20986132,
+        "L": 399,
+        "k": 811100333
+    },
+    "video/en/yokoku07d.txt": {
+        "p": 20986531,
+        "L": 426,
+        "k": 818610518
+    }
+}
