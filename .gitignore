@@ -1,5 +1,5 @@
 /aokana_data
 
-*.dll
+*.dat
 
-*.i64
+test.py
