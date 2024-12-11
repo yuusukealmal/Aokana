@@ -73,15 +73,23 @@ def gk(b, k0):
         b[i] = num & 0xFF
         num >>= 1
 
-def Data(fn):
-    if fn in ti:
-        return ti[fn]
-    return None
+def Data(item, fp, offest):
+    start = offest["p"]
+    with open(f'./dat/{item}.dat', 'rb') as f:
+        f.seek(start)
+        array = bytearray(f.read(offest["L"]))
+        dd(array, offest["L"], offest["k"])
+        os.makedirs(os.path.dirname(f'./data/{item}/{fp}'), exist_ok=True)
+        with open(f'./data/{item}/{fp}', 'wb') as f:
+            f.write(array)
 
 for _ in os.listdir('./dat'):
-    print(_)
-    item = os.path.basename(_)
-    init(f'./dat/{item}')
-    with open(f'./json/{item.replace(".dat", ".json")}', 'w') as f:
+    item = os.path.basename(_).split('.')[0]
+    init(f'./dat/{item}.dat')
+    with open(f'./json/{item}.json', 'w') as f:
         json.dump(ti, f, indent=4)
+    with open(f'./json/{item}.json', 'r') as f:
+        file = json.load(f)
+        for key, value in file.items():
+            Data(item, key, value)
     ti = {}
