@@ -21,7 +21,7 @@ def init(fp):
 
     num = 0
     for i in range(4, 255):
-        num += ToInt32(array, i*4)
+        num = (num + ToInt32(array, i*4)) & 0xFFFFFFFF 
     
     array2 = bytearray(f.read(16 * num))
     dd(array2, len(array2),ToUint32(array, 212))
