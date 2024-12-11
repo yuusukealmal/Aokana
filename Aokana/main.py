@@ -1,4 +1,4 @@
-import struct, json
+import struct, json, os
 from dataclasses import dataclass
 
 @dataclass
@@ -6,6 +6,9 @@ class fe:
     p: int
     L: int
     k: int
+    
+    def todict(self):
+        return {'p': self.p, 'L': self.L, 'k': self.k}
 
 ti = {}
 def ToInt32(arr, index):
@@ -45,7 +48,7 @@ def init2(rtoc, rpaths, numfiles):
             if rpaths[j] == 0:
                 break
         key = rpaths[num:j].decode('ascii').lower()
-        value = str(fe(p, l, k))
+        value = fe(p, l, k).todict()
         ti[key] = value
         num = j + 1
 
@@ -75,7 +78,10 @@ def Data(fn):
         return ti[fn]
     return None
 
-init('./aokana_data/bg.dat')
-with open('ti.json', 'w') as f:
-    json.dump(ti, f)
-print(ti)
+for _ in os.listdir('./dat'):
+    print(_)
+    item = os.path.basename(_)
+    init(f'./dat/{item}')
+    with open(f'./json/{item.replace(".dat", ".json")}', 'w') as f:
+        json.dump(ti, f, indent=4)
+    ti = {}
