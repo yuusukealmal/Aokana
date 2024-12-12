@@ -1,0 +1,102 @@
+{
+    "evcg/en/ae2sdex01_s01.webp": {
+        "p": 1917,
+        "L": 326504,
+        "k": 153
+    },
+    "thumbnails/en/00movie@.webp": {
+        "p": 328421,
+        "L": 72662,
+        "k": 7510338
+    },
+    "thumbnails/en/vcge208_1@.webp": {
+        "p": 401083,
+        "L": 46248,
+        "k": 15020527
+    },
+    "thumbnails/en/vkcg25_1@.webp": {
+        "p": 447331,
+        "L": 104410,
+        "k": 22530712
+    },
+    "thumbnails/en/vke202_1@.webp": {
+        "p": 551741,
+        "L": 95834,
+        "k": 30040901
+    },
+    "thumbnails/en/vsde201_1@.webp": {
+        "p": 647575,
+        "L": 41156,
+        "k": 37551086
+    },
+    "thumbnails/en/vsde201_2@.webp": {
+        "p": 688731,
+        "L": 48216,
+        "k": 45061275
+    },
+    "thumbnails/en/vsde201_3@.webp": {
+        "p": 736947,
+        "L": 53362,
+        "k": 52571460
+    },
+    "thumbnails/en/vsde201_4@.webp": {
+        "p": 790309,
+        "L": 54650,
+        "k": 60081633
+    },
+    "thumbnails/en/vsde201_5@.webp": {
+        "p": 844959,
+        "L": 50910,
+        "k": 67591818
+    },
+    "thumbnails/en/vsdexe201_01@.webp": {
+        "p": 895869,
+        "L": 33980,
+        "k": 75102007
+    },
+    "thumbnails/en/vsdexe201_11@.webp": {
+        "p": 929849,
+        "L": 45754,
+        "k": 82612192
+    },
+    "thumbnails/en/vsdexe215_01@.webp": {
+        "p": 975603,
+        "L": 29238,
+        "k": 90122381
+    },
+    "thumbnails/en/vsdexe215_02@.webp": {
+        "p": 1004841,
+        "L": 29154,
+        "k": 97632566
+    },
+    "def/version.txt": {
+        "p": 1033995,
+        "L": 19,
+        "k": 105142755
+    },
+    "scripts/main.bs5": {
+        "p": 1034014,
+        "L": 144,
+        "k": 112652940
+    },
+    "scripts/merge/ch_select.bs5": {
+        "p": 1034158,
+        "L": 1879,
+        "k": 120163113
+    },
+    "scripts/merge/eppcex2_01.bs5": {
+        "p": 1036037,
+        "L": 821742,
+        "k": 127673298
+    },
+    "scripts/merge/eppcex2_04.bs5": {
+        "p": 1857779,
+        "L": 278748,
+        "k": 135183487
+    },
+    "scripts/merge/eppcex2_07.bs5": {
+        "p": 2136527,
+        "L": 822778,
+        "k": 142693672
+    }
+}
